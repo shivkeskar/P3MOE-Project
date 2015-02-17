@@ -1,2 +1,6 @@
 This file has been created to better understand Git.
-Shiva
+
+This file was created by Shiva. 
+
+1342 hrs 17 feb 
+
